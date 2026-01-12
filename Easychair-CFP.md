@@ -37,11 +37,8 @@ One aspect that will require coordination is the review forms. The superchairs s
 It is important to define a schedule of submission and notification dates for each of the tracks, such that there is coherence for the timetable.  Factors to consider include:
 
 - Identifying **submission dates** of related conferences and try to avoid collisions.
-
 - Set **Poster and Demo dates** at least a couple of weeks after full paper notification dates to allow poster submission of rejected papers, or demo submissions to accomany accepted papers.
-
 - Consider the **planning of capacity**.  For example, synchronise the dates for the main tracks to allow for presentation capacity planning prior to notification.  Likewise, as there will be a finite number of rooms for tutorials and workshops, synchronise those dates to ensure a balanced programme.
-
 - Be mindful of the dates by which the **publisher** (currenty Springer) will need the proceedings for the main volumes, and for dates that may affect the publication of associated volumes (such as CEUR for workshop proceedings, etc.)
 
 Once the dates are set, ask each of the track chairs to prepare the CFPs; it is a good idea to coordinate with the *Research Track Chairs* to oversee consistency across the calls before publishing - this period requires regular communication to avoid embarasing problems.  Once ready, publish on the web site, and instruct the *Publicity Chairs* to start the advertising campaign. It is a good idea to plan this campaign to target the correct email lists and social media.  For more details see the [section on publicity](/publicity.html).
