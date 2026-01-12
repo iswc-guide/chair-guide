@@ -22,14 +22,15 @@ Note that in past years, come invitiees may not respond promptly (or at all) to 
 
 #### 12-18 months
 
-* Aim to finalise the Chair positions at least one year before the prior ISWC Conference.  Ideally, the Website should be launched at that conference and list details of all members of the Organising Committee.
+- Aim to finalise the Chair positions at least one year before the prior ISWC Conference.  Ideally, the Website should be launched at that conference and list details of all members of the Organising Committee.
 
 #### 12 months (at prior ISWC Conference)
 
-* Ideally the *General Chair* (or if not possible, someone to represent the OC) should attend the previous year's ISWC to attend:
-		* the Town Hall meeting (to garner current feedback), 
-		* the OC Lunch (typically on the last day, where the main chairs of the prior and new ISWC and be introduced and can exhange details etc), and 
-		* the closing ceremony, where a presentation of your event should be launched (typically with a video presentation) in coordination with SWSA and the prior *Local Chairs*. 
+- Ideally the *General Chair* (or if not possible, someone to represent the OC) should attend the previous year's ISWC to attend:
+
+	- the Town Hall meeting (to garner current feedback), 
+	- the OC Lunch (typically on the last day, where the main chairs of the prior and new ISWC and be introduced and can exhange details etc), and 
+	- the closing ceremony, where a presentation of your event should be launched (typically with a video presentation) in coordination with SWSA and the prior *Local Chairs*. 
 
 
 
