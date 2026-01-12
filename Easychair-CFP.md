@@ -32,16 +32,37 @@ One aspect that will require coordination is the review forms. The superchairs s
 
 
 
-
 ## Preparing calls and submissions
 
-* You will need to then coordinate all of the Track Chairs to propose submission, review, etc., dates, and make sure these interleave relatively well (for example, that P\&D submissions are a couple of weeks after Main Track notifications to perhaps capture some reject submissions or demos of accepted papers). Main tracks typically share the same dates, so you will need them to coordinate and agree.  
-* Once the dates are set (needed to let the PC/SPC know what dates they are needed in the invite), push Track Chairs to invite PC relatively early, and try to get the PC published on the homepage relatively early (as this can help to encourage submissions). Be sure that the PC has a chance to edit/update their name, affiliation, and country.  
-* Push Track Chairs to get the calls published as early as possible on the website, and get the Web/Publicity chairs to share on social media, etc.  
-* You should also start to consider invites for keynote speakers while things are quiet. It is typical to try to balance industry/academia, core SW/related areas, as well as gender and geography. Typically their travel costs will be covered (economy flights, registration, hotel), though you may want to double-check this with the Local Chair(s). Push Panel chairs to also think about topics and panelists (whose costs are not typically covered). Note that SWSA expects you to run candidate speakers by them before inviting them.  
-  * **TIP**: Of course, you might want to avoid inviting someone who has already given an ISWC keynote, or a recent ESWC keynote (as you wish). [This spreadsheet](https://docs.google.com/spreadsheets/d/169mThBN6U09JvH_cILnV5rih2WIJz3kClfV4kXJeick/edit?usp=sharing) might help. (And please extend it for future years.)  
-* Around the time of the deadlines for the main tracks is a good time to think about ensuring that Sponsor Chairs are contacting sponsors, and getting agreements. First, they need to agree on Sponsor Levels (silver, gold, diamond, etc.) and the prices/perks associated. Then they need to start contacting companies based on emails/contacts shared from last year’s chairs.
+It is important to define a schedule of submission and notification dates for each of the tracks, such that there is coherence for the timetable.  Factors to consider include:
+
+- Identifying submission dates of related conferences and try to avoid collisions.
+
+- Set Poster and Demo dates at least a couple of weeks after full paper notification dates to allow poster submission of rejected papers, or demo submissions to accomany accepted papers.
+
+- Consider the planning of capacity.  For example, synchronise the dates for the main tracks to allow for presentation capacity planning prior to notification.  Likewise, as there will be a finite number of rooms for tutorials and workshops, synchronise those dates to ensure a balanced programme.
+
+Once the dates are set, instruct the track chairs to invite PCs and SPCs. This requries delicate coordination, as the tracks typically recruit from the same pool of reviewers, and as such may accept one role and then reject another. Consider inviting SPC before sending PC invites.  Include the date scehdule with the invitations. Getting these invitations out early as this can help encourage paper submissions. 
+
+Ensure that the PC has a chance to edit/update their name, affiliation, and country, and pubish the PC list on the web page.
+
+Ask track chairs to prepare and publish calls asap on the website.  Once puiblished, the publicity chairs should start the advertising campaign. It is a good idea to plan this campaign to target the correct email lists and social media.  For more details see the [section on publicity](/publicity.html).
+
+## Planning Technical Programme
+
+Although most of the technical programme will be decided during the reviewing phase, an overall plan can be defined beforehand.  Consider **candidate keynote speakers**; try to balance industry/academia, core SW/related areas, as well as gender and geography. It is a good idea to share your plans with SWSA before sending out invitations. Try to avoid inviting someone who has already given an ISWC keynote, or a recent ESWC keynote (unless there is a compelling reason to do so). [Lists of previous keynote speakers are given in this spreadsheet](https://docs.google.com/spreadsheets/d/169mThBN6U09JvH_cILnV5rih2WIJz3kClfV4kXJeick/edit?usp=sharing); pleae update for future years.)  
+
+Typically their travel costs of keynote speakers will be covered (economy flights, registration, hotel), though you may want to double-check this with the *Local Chairs*.
+
+Coordinate with the *Panel Chairs* to think about topics and panelists.  Note however, that that panel speaker costs are not typically covered; so this may be planned once the notification phase is over. 
+
+Be aware that the conference has to be financially viable; this involves balancing the costs of the conference with revenue generated from registrations. It is important that the quality of the technical programme is not compromised by "*balancing the books*"; therefore consider other ways in which registration can be encouraged, as well as novel sponsorship opportunities. That said, **discussing predicted numbers of acceptances from all of the tracks prior to notification** is a good idea, to identify or highlight possible financial challenges.
 
 ---
 
 ## Notes, Tips and useful Resorces
+
+* The [following spreadsheet](https://docs.google.com/spreadsheets/d/169mThBN6U09JvH_cILnV5rih2WIJz3kClfV4kXJeick/edit?usp=sharing)
+lists previous keynote speakers for ISWC and ESWC - **pleae update for future years**.
+
+
