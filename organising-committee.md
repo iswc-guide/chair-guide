@@ -42,46 +42,45 @@ Typically, one week after the prior ISWC, The *General Chair* or SWSA should org
 
 Each of the chair positions are listed below.  Typically, two chairs are appointed for each role to ensure robustness and resilience for each role, though having three, though unusual, is not unheard of.  It is rare to have one chair - but if this is done, avoid this on time-critical roles. The list of roles below reflects the main roles, but these can vary with each conference edition (for example, the inclusion of the *Job Fair Chair* in 2025 or the *Visionary Ideas Track Chair* in 2026).
 
-| Role | Description |
+### General Chair:
+
+Typically a single role - responsible for the overall management and delivery of the conference, including the appointment of the OC. Core management includes coordinating the overall program of events (with the *Research Track Chairs*) and delivering the conference itself (with the *Local Chairs*). Also responsible for the financial planning of the conference.
+
+| Associated Roles | Description |
 | --- | --- |
-| **General Chair:** | Typically a single role - responsible for the overall management and delivery of the conference, including the appointment of the OC. Core management includes coordinating the overall program of events (with the *Research Track Chairs*) and delivering the conference itself (with the *Local Chairs*). Also responsible for the financial planning of the conference. |
-| **Sponsor Chairs:** | Responsible for soliciting sponsorship (and subsequent advertising) for the conference, supporting the financial planning of the conference. Coordinate with *General Chair*. |
-| **Student Grants Chairs:** | Oversee travel grants and other support for students at the conference. Coordinate with *General Chair*. |
-| **Local Chairs:** | Responsible for the original bid to host the conference; these chairs coordinate the venue, social activities (including welcome reception and banquet), and are responsible for overseeing all technical and Audio/Visual services to ensure the conference runs smoothly.  They also traditionally oversee the activities of the *Web Presence and Publicity Chairs*.|
-| **Web Presence and Publicity Chairs:** | Manage updates to the web site and all publicity activities, including advertising calls, the event itself, activities during the conference, and recording conference activities. Typically report back to the *Local Chairs*. |
+| **Sponsor Chairs** | Responsible for soliciting sponsorship (and subsequent advertising) for the conference, supporting the financial planning of the conference. Coordinate with *General Chair*. |
+| **Student Grants Chairs** | Oversee travel grants and other support for students at the conference. Coordinate with *General Chair*. |
+
+### Local Chairs:
+
+Responsible for the original bid to host the conference; these chairs coordinate the venue, social activities (including welcome reception and banquet), and are responsible for overseeing all technical and Audio/Visual services to ensure the conference runs smoothly.  They also traditionally oversee the activities of the *Web Presence and Publicity Chairs*.
+
+| Associated Roles | Description |
+| --- | --- |
+| **Web Presence and Publicity Chairs** | Manage updates to the web site and all publicity activities, including advertising calls, the event itself, activities during the conference, and recording conference activities. Typically report back to the *Local Chairs*. |
  
-**Research Track Chairs:** 
-Responsible for the overall programme, and coordinating the activities of the other main tracks, with the *In-Use Application Track Chairs* and *Industry Track Chairs*. The selected papers form the tracks of the main programme, as opposed to the co-located events. They are also repsonsible for managing the solicitation, review and selection of submissions for the main tracks of the conference, as well as coordinating other events (such as invited talks, panels and introduction of new tracks with the *General Chair*). Also coordinate with other chairs and *General Chair* to finalise the overal programme of the main and co-located events.
+### Research Track Chairs:
 
-**In-Use Application Track Chairs:**
-Responsible for managing the solicitation, review and selection of submissions for the In-Use Application track.  Coordinate with *Research Track Chairs*.
+Responsible for the **overall programme**, and coordinating the activities of the other main tracks, with the *In-Use Application Track Chairs* and *Industry Track Chairs*. The selected papers form the tracks of the main programme, as opposed to the co-located events. They are also repsonsible for managing the solicitation, review and selection of submissions for the main tracks of the conference, as well as coordinating other events (such as invited talks, panels and introduction of new tracks with the *General Chair*). Also coordinate with other chairs and *General Chair* to finalise the overal programme of the main and co-located events.
 
-**Industry Track Chairs:**
-	Responsible for managing the solicitation, review and selection of submissions for the Industry track.  Coordinate with *Research Track Chairs*.
+| Associated Roles | Description |
+| --- | --- |
+| **In-Use Application Track Chairs** | Responsible for managing the solicitation, review and selection of submissions for the In-Use Application track.  Coordinate with *Research Track Chairs*.|
+| **Industry Track Chairs:** | Responsible for managing the solicitation, review and selection of submissions for the Industry track.  Coordinate with *Research Track Chairs*.
+|**Poster, Demo & Lightning Talk Chairs:** | Responsible for managing the solicitation, review and selection of demo submissions and poster publications (including late breaking submissions), together with main track subissions that are accepted as posters.  Also repsonsible for coordinating the lightning talk session. Coordinate with *Research Track Chairs*. |
+| **Dagsthul-style Workshop Chairs:** | Responsible for managing the solicitation, revie, selection and coordination of Dagsthul-style workshops. These were introduced in ISWC 2025, and although they are technically workshops, they are organised separately from the workshops submitted to the *Workshop and Tutorial Chairs* and may take place throughout the conference programme. |
+| **Proceedings & Metadata Chairs:** | Responsible for the coordiation and assembly of the Proceedings Volumes (in coordination primarily with the *Research Track Chairs* and *General Chair*, but also with other track cheirs where necessary. |
+| **Workshops and Tutorials Chairs:** | Responsible for managing the solicitation, review and selection of workshop / tutorial submissions (forming the main co-located events that occur prior to the main conference programme).  Also responsble for coordinating with the successful individual tutorial and workshop track chairs.  Need to coordinate with *Local Chairs* to ensure capacity wrt rooms etc.|
+| **Doctoral Consortium Chairs:** | Responsible for solicitation, review, selection and running of the Doctorial Consortium. |
 
-**Poster, Demo & Lightning Talk Chairs:**
-Responsible for managing the solicitation, review and selection of demo submissions and poster publications (including late breaking submissions), together with main track subissions that are accepted as posters.  Also repsonsible for coordinating the lightning talk session. Coordinate with *Research Track Chairs*.
+### Other Roles
 
-**Panel Chairs:**
-Respoonsible for planning the panel session, incluing the selection of topics and speakers.
+Chair positions vary from year to year; here is a list of other roles have have existed in past years.
 
-**Dagsthul-style Workshop Chairs:**
-Responsible for managing the solicitation, revie, selection and coordination of Dagsthul-style workshops.
-
-**Proceedings & Metadata Chairs:**
-Responsible for the coordiation and assembly of the Proceedings Volumes (in coordination primarily with the *Research Track Chairs* and *General Chair*, but also with other track cheirs where necessary.
-
-**Workshops and Tutorials Chairs:**
-Responsible for managing the solicitation, review and selection of workshop / tutorial submissions (forming the main co-located events that occur prior to the main conference programme).  Also responsble for coordinating with the successful individual tutorial and workshop track chairs.  Need to coordinate with *Local Chairs* to ensure capacity wrt rooms etc.
-
-**Doctoral Consortium Chairs:**
-Responsible for solicitation, review, selection and running of the Doctorial Consortium.
-
-**Semantic Web Challenge Chairs:**
-Details coming soon...
-
-
-
+| Past Roles | Description |
+| --- | --- |
+| **Panel Chairs:** | Respoonsible for planning the panel session, incluing the selection of topics and speakers. |
+| **Semantic Web Challenge Chairs:** |Responsible for identifying the *Semantic Web Challenge, and coordinating the submission, review and notification of challenge submissions. |
 
 
 
