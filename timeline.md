@@ -18,3 +18,7 @@ navigation: 10
 
 - [General Chair](/organising-committee.html): organise **Handover** meeting (one week afetr previous ISWC) with previous and new *Organising Committee* to coordinate handover of materials.  This extends discussion from the *OC Lunch*.
 
+---
+
+
+* Around the time of the deadlines for the main tracks is a good time to think about ensuring that Sponsor Chairs are contacting sponsors, and getting agreements. First, they need to agree on Sponsor Levels (silver, gold, diamond, etc.) and the prices/perks associated. Then they need to start contacting companies based on emails/contacts shared from last year’s chairs.
