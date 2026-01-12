@@ -42,11 +42,11 @@ Typically, one week after the prior ISWC, The *General Chair* or SWSA should org
 
 Each of the chair positions are listed below.  Typically, two chairs are appointed for each role to ensure robustness and resilience for each role, though having three, though unusual, is not unheard of.  It is rare to have one chair - but if this is done, avoid this on time-critical roles. The list of roles below reflects the main roles, but these can vary with each conference edition (for example, the inclusion of the *Job Fair Chair* in 2025 or the *Visionary Ideas Track Chair* in 2026).
 
-* **General Chair:** Typically a single role - responsible for the overall management and delivery of the conference, including the appointment of the OC. Core management includes coordinating the overall program of events (with the *Research Track Chairs*) and delivering the conference itself (with the *Local Chairs*). Also responsible for the financial planning of the conference.
+- **General Chair:** Typically a single role - responsible for the overall management and delivery of the conference, including the appointment of the OC. Core management includes coordinating the overall program of events (with the *Research Track Chairs*) and delivering the conference itself (with the *Local Chairs*). Also responsible for the financial planning of the conference.
 
-	* **Sponsor Chairs:** Responsible for soliciting sponsorship (and subsequent advertising) for the conference, supporting the financial planning of the conference.
+	- **Sponsor Chairs:** Responsible for soliciting sponsorship (and subsequent advertising) for the conference, supporting the financial planning of the conference.
 
-	* **Student Grants Chairs:**
+	- **Student Grants Chairs:**
 	Oversee travel grants and other support for students at the conference.
 
 
