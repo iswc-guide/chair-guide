@@ -56,13 +56,13 @@ Typically their travel costs of keynote speakers will be covered (economy flight
 
 Coordinate with the *Panel Chairs* to think about topics and panelists.  Note however, that that panel speaker costs are not typically covered; so this may be planned once the notification phase is over. 
 
-Be aware that the conference has to be financially viable; this involves balancing the costs of the conference with revenue generated from registrations. It is important that the quality of the technical programme is not compromised by "*balancing the books*"; therefore consider other ways in which registration can be encouraged, as well as novel sponsorship opportunities. That said, **discussing predicted numbers of acceptances from all of the tracks prior to notification** is a good idea, to identify or highlight possible financial challenges.
+Be aware that the conference has to be financially viable; this involves balancing the costs of the conference with revenue generated from registrations. It is important that the quality of the technical programme is not compromised by "*balancing the books*"; therefore consider other ways in which registration can be encouraged, as well as novel sponsorship opportunities. That said, **discussing predicted numbers of acceptances from all of the tracks when the submission closes and prior to notification** is a good idea, to identify or highlight possible financial challenges.
 
 ---
 
 ## Notes, Tips and useful Resorces
 
 * The [following spreadsheet](https://docs.google.com/spreadsheets/d/169mThBN6U09JvH_cILnV5rih2WIJz3kClfV4kXJeick/edit?usp=sharing)
-lists previous keynote speakers for ISWC and ESWC - **pleae update for future years**.
+lists previous keynote speakers for ISWC and ESWC - **please update for future years**.
 
 
