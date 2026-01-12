@@ -1,8 +1,8 @@
 ---
 layout: page
-title: During the Prior ISWC
-navigation: 3
+title: Proceedings
+navigation: 5
 ---
 
-## Unused
+## Publishing the Proceedings
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Managing Easychair
-navigation: 4
+navigation: 3
 ---
 
 # Introduction
@@ -32,23 +32,26 @@ One aspect that will require coordination is the review forms. The superchairs s
 
 
 
-## Preparing calls and submissions
+## Preparing Date Schedule and CFP guidance
 
 It is important to define a schedule of submission and notification dates for each of the tracks, such that there is coherence for the timetable.  Factors to consider include:
 
-- Identifying submission dates of related conferences and try to avoid collisions.
+- Identifying **submission dates** of related conferences and try to avoid collisions.
 
-- Set Poster and Demo dates at least a couple of weeks after full paper notification dates to allow poster submission of rejected papers, or demo submissions to accomany accepted papers.
+- Set **Poster and Demo dates** at least a couple of weeks after full paper notification dates to allow poster submission of rejected papers, or demo submissions to accomany accepted papers.
 
-- Consider the planning of capacity.  For example, synchronise the dates for the main tracks to allow for presentation capacity planning prior to notification.  Likewise, as there will be a finite number of rooms for tutorials and workshops, synchronise those dates to ensure a balanced programme.
+- Consider the **planning of capacity**.  For example, synchronise the dates for the main tracks to allow for presentation capacity planning prior to notification.  Likewise, as there will be a finite number of rooms for tutorials and workshops, synchronise those dates to ensure a balanced programme.
 
-Once the dates are set, instruct the track chairs to invite PCs and SPCs. This requries delicate coordination, as the tracks typically recruit from the same pool of reviewers, and as such may accept one role and then reject another. Consider inviting SPC before sending PC invites.  Include the date scehdule with the invitations. Getting these invitations out early as this can help encourage paper submissions. 
+- Be mindful of the dates by which the **publisher** (currenty Springer) will need the proceedings for the main volumes, and for dates that may affect the publication of associated volumes (such as CEUR for workshop proceedings, etc.)
+
+Once the dates are set, ask each of the track chairs to prepare the CFPs; it is a good idea to coordinate with the *Research Track Chairs* to oversee consistency across the calls before publishing - this period requires regular communication to avoid embarasing problems.  Once ready, publish on the web site, and instruct the *Publicity Chairs* to start the advertising campaign. It is a good idea to plan this campaign to target the correct email lists and social media.  For more details see the [section on publicity](/publicity.html).
+
+Simultaneously, instruct the track chairs to invite PCs and SPCs. This requries delicate coordination, as the tracks typically recruit from the same pool of reviewers, and as such may accept one role and then reject another. Consider inviting SPC before sending PC invites.  Include the date scehdule with the invitations. Getting these invitations out early as this can help encourage paper submissions. 
 
 Ensure that the PC has a chance to edit/update their name, affiliation, and country, and pubish the PC list on the web page.
 
-Ask track chairs to prepare and publish calls asap on the website.  Once puiblished, the publicity chairs should start the advertising campaign. It is a good idea to plan this campaign to target the correct email lists and social media.  For more details see the [section on publicity](/publicity.html).
 
-## Planning Technical Programme
+## Invited Speaker and other Sessions
 
 Although most of the technical programme will be decided during the reviewing phase, an overall plan can be defined beforehand.  Consider **candidate keynote speakers**; try to balance industry/academia, core SW/related areas, as well as gender and geography. It is a good idea to share your plans with SWSA before sending out invitations. Try to avoid inviting someone who has already given an ISWC keynote, or a recent ESWC keynote (unless there is a compelling reason to do so). [Lists of previous keynote speakers are given in this spreadsheet](https://docs.google.com/spreadsheets/d/169mThBN6U09JvH_cILnV5rih2WIJz3kClfV4kXJeick/edit?usp=sharing); pleae update for future years.)  
 

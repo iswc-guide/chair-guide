@@ -66,12 +66,12 @@ Responsible for the **overall programme**, and coordinating the activities of th
 | Associated Roles | Description |
 | --- | --- |
 | **In-Use Application Track Chairs** | Responsible for managing the solicitation, review and selection of submissions for the In-Use Application track.  Coordinate with *Research Track Chairs*.|
-| **Industry Track Chairs:** | Responsible for managing the solicitation, review and selection of submissions for the Industry track.  Coordinate with *Research Track Chairs*.
-|**Poster, Demo & Lightning Talk Chairs:** | Responsible for managing the solicitation, review and selection of demo submissions and poster publications (including late breaking submissions), together with main track subissions that are accepted as posters.  Also repsonsible for coordinating the lightning talk session. Coordinate with *Research Track Chairs*. |
-| **Dagsthul-style Workshop Chairs:** | Responsible for managing the solicitation, revie, selection and coordination of Dagsthul-style workshops. These were introduced in ISWC 2025, and although they are technically workshops, they are organised separately from the workshops submitted to the *Workshop and Tutorial Chairs* and may take place throughout the conference programme. |
+| **Industry Track Chairs** | Responsible for managing the solicitation, review and selection of submissions for the Industry track.  Coordinate with *Research Track Chairs*.
+|**Poster, Demo & Lightning Talk Chairs** | Responsible for managing the solicitation, review and selection of demo submissions and poster publications (including late breaking submissions), together with main track subissions that are accepted as posters.  Also repsonsible for coordinating the lightning talk session. Coordinate with *Research Track Chairs*. |
+| **Dagsthul-style Workshop Chairs** | Responsible for managing the solicitation, revie, selection and coordination of Dagsthul-style workshops. These were introduced in ISWC 2025, and although they are technically workshops, they are organised separately from the workshops submitted to the *Workshop and Tutorial Chairs* and may take place throughout the conference programme. |
 | **Proceedings & Metadata Chairs:** | Responsible for the coordiation and assembly of the Proceedings Volumes (in coordination primarily with the *Research Track Chairs* and *General Chair*, but also with other track cheirs where necessary. |
-| **Workshops and Tutorials Chairs:** | Responsible for managing the solicitation, review and selection of workshop / tutorial submissions (forming the main co-located events that occur prior to the main conference programme).  Also responsble for coordinating with the successful individual tutorial and workshop track chairs.  Need to coordinate with *Local Chairs* to ensure capacity wrt rooms etc.|
-| **Doctoral Consortium Chairs:** | Responsible for solicitation, review, selection and running of the Doctorial Consortium. |
+| **Workshops and Tutorials Chairs** | Responsible for managing the solicitation, review and selection of workshop / tutorial submissions (forming the main co-located events that occur prior to the main conference programme).  Also responsble for coordinating with the successful individual tutorial and workshop track chairs.  Need to coordinate with *Local Chairs* to ensure capacity wrt rooms etc.|
+| **Doctoral Consortium Chairs** | Responsible for solicitation, review, selection and running of the Doctorial Consortium. |
 
 ### Other Roles
 
@@ -79,8 +79,8 @@ Chair positions vary from year to year; here is a list of other roles have have 
 
 | Past Roles | Description |
 | --- | --- |
-| **Panel Chairs:** | Respoonsible for planning the panel session, incluing the selection of topics and speakers. |
-| **Semantic Web Challenge Chairs:** |Responsible for identifying the *Semantic Web Challenge, and coordinating the submission, review and notification of challenge submissions. |
+| **Panel Chairs** | Respoonsible for planning the panel session, incluing the selection of topics and speakers. |
+| **Semantic Web Challenge Chairs** |Responsible for identifying the *Semantic Web Challenge, and coordinating the submission, review and notification of challenge submissions. |
 
 
 
